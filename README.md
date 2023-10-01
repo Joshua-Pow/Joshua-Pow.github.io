@@ -12,3 +12,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![Alt text](activity2_1.png)
 
 ![Alt text](activity2_2.png)
+
+# Activity 3
+
+![Alt text](activity3.png)
