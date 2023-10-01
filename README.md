@@ -6,6 +6,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 # Activity 1
 
 ![Alt text](activity1.png)
+![Alt text](activity1_2.png)
 
 # Activity 2
 
